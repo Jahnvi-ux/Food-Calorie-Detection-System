@@ -51,25 +51,19 @@ The model was trained on a food image dataset containing multiple food categorie
 * Nutritional breakdown (protein, carbohydrates, fats)
 * Mobile application integration
 
-## 📸 Sample Output
+## 📸 Sample Input/Output
 
-Input: Food Image
+1. Input: Food Image
+   Prediction: Pizza
+   Estimated Calories: 266 kcal
 
-Prediction: Pizza
+2. Input: Food Image
+   Prediction: White sauce Pasta
+   Estimated Calories: 320 kcal
 
-Estimated Calories: 285 kcal
-
-Input: Food Image
-
-Prediction: White sauce Pasta
-
-Estimated Calories: 285 kcal
-
-Input: Food Image
-
-Prediction: Gulab Jamun
-
-Estimated Calories: 285 kcal
+3. Input: Food Image
+   Prediction: Gulab Jamun
+   Estimated Calories: 143 kcal
 
 ## 👩‍💻 Author
 
