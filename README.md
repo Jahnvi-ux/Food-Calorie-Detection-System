@@ -59,15 +59,21 @@ This custom dataset helped improve the model's ability to recognize food items u
 ## 📸 Sample Input/Output
 
 1. Input: Food Image
+
    Prediction: Pizza
+
    Estimated Calories: 266 kcal
 
 2. Input: Food Image
+
    Prediction: White sauce Pasta
+
    Estimated Calories: 320 kcal
 
 3. Input: Food Image
+
    Prediction: Gulab Jamun
+
    Estimated Calories: 143 kcal
 
 ## 👩‍💻 Author
