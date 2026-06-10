@@ -32,9 +32,14 @@ Maintaining a healthy diet often requires tracking calorie intake, which can be 
 4. Retrieve the corresponding calorie information.
 5. Display the detected food and estimated calorie count.
 
-## 📊 Dataset
+## 📊 Dataset Creation
 
-The model was trained on a food image dataset containing multiple food categories. Images were preprocessed and augmented to improve model performance and generalization.
+Instead of relying on a publicly available dataset, a custom dataset was created for this project. Images of 15 different food categories were manually collected and organized for training and testing.
+- 15 food categories
+- 80+ image variations per category
+- Diverse angles, lighting conditions, and presentations
+- Separate training and testing datasets
+This custom dataset helped improve the model's ability to recognize food items under varying real-world conditions.
 
 ## 🎯 Applications
 
